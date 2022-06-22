@@ -1,7 +1,5 @@
 <resources>
     <string name="shr_app_name">Shrine</string>
-    <string name="shr_hint_username">Username</string>
-    <string name="shr_hint_password">Password</string>
     <string name="shr_button_next">Next</string>
     <string name="shr_button_cancel">Cancel</string>
     <string name="shr_error_password">Password must contain at least 8 characters.</string>
@@ -20,4 +18,7 @@
     <string name="shr_dresses_label">Dresses</string>
     <string name="shr_account_label">My Account</string>
     <string name="shr_logo_content_description">Shrine Logo</string>
+
+    <string name="shr_hint_username">Username</string>
+    <string name="shr_hint_password">Password</string>
 </resources>
